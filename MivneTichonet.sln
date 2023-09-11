@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySongClass", "MySongClass\MySongClass.csproj", "{23904B51-087B-4EBD-BCBC-517BDD01F4AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FencyArrAtHome", "FencyArr AtHome\FencyArrAtHome.csproj", "{2495CED6-B622-4145-9BEA-625F0BB7DD60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FancyArray216", "FancyArray\FancyArray216.csproj", "{05BD0453-1315-45A6-AD39-2A4F511873A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FencyArr214", "FencyArr214\FencyArr214.csproj", "{C6109BF7-C790-4494-AE35-C2B3F41E4C11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3AtHome", "Lesson3\Lesson3AtHome.csproj", "{7240CF36-26D8-4149-B21A-9241387DA58E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class3Solution214", "Class3 Solution1\Class3Solution214.csproj", "{90D703B6-37E1-4201-9172-7884D78F24CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23904B51-087B-4EBD-BCBC-517BDD01F4AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23904B51-087B-4EBD-BCBC-517BDD01F4AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23904B51-087B-4EBD-BCBC-517BDD01F4AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23904B51-087B-4EBD-BCBC-517BDD01F4AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2495CED6-B622-4145-9BEA-625F0BB7DD60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2495CED6-B622-4145-9BEA-625F0BB7DD60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2495CED6-B622-4145-9BEA-625F0BB7DD60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2495CED6-B622-4145-9BEA-625F0BB7DD60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05BD0453-1315-45A6-AD39-2A4F511873A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05BD0453-1315-45A6-AD39-2A4F511873A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05BD0453-1315-45A6-AD39-2A4F511873A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05BD0453-1315-45A6-AD39-2A4F511873A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6109BF7-C790-4494-AE35-C2B3F41E4C11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6109BF7-C790-4494-AE35-C2B3F41E4C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6109BF7-C790-4494-AE35-C2B3F41E4C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6109BF7-C790-4494-AE35-C2B3F41E4C11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7240CF36-26D8-4149-B21A-9241387DA58E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7240CF36-26D8-4149-B21A-9241387DA58E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7240CF36-26D8-4149-B21A-9241387DA58E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7240CF36-26D8-4149-B21A-9241387DA58E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90D703B6-37E1-4201-9172-7884D78F24CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D703B6-37E1-4201-9172-7884D78F24CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D703B6-37E1-4201-9172-7884D78F24CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D703B6-37E1-4201-9172-7884D78F24CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F84855D-6E19-4175-998A-30CA72E27B6C}
+	EndGlobalSection
+EndGlobal
