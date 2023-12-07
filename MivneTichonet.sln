@@ -21,8 +21,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingLotQuestion", "Parki
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recursion.csproj", "{FF5BD796-82A2-4A5A-A2B0-7DFAAB70A101}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dec7LessonTestSolution", "Dec7LessonTestSolution\Dec7LessonTestSolution.csproj", "{8DF4676E-1F84-4318-BBEE-E4183396D4AE}"
 EndProject
+=======
+>>>>>>> 073712a28b20b3fa204d91baca37f09fb0202f92
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -65,10 +68,13 @@ Global
 		{FF5BD796-82A2-4A5A-A2B0-7DFAAB70A101}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF5BD796-82A2-4A5A-A2B0-7DFAAB70A101}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF5BD796-82A2-4A5A-A2B0-7DFAAB70A101}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{8DF4676E-1F84-4318-BBEE-E4183396D4AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8DF4676E-1F84-4318-BBEE-E4183396D4AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DF4676E-1F84-4318-BBEE-E4183396D4AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DF4676E-1F84-4318-BBEE-E4183396D4AE}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+>>>>>>> 073712a28b20b3fa204d91baca37f09fb0202f92
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

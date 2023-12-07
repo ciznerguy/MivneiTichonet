@@ -8,6 +8,7 @@ namespace Recursion
 {
     internal class Program
     {
+<<<<<<< HEAD
 
 
 
@@ -47,6 +48,9 @@ namespace Recursion
             return NumberLength(num / 10)+1;
         }
 
+=======
+       // פעולה רקורסיבית המקבלת מספר ומחזירה את אורכו
+>>>>>>> 073712a28b20b3fa204d91baca37f09fb0202f92
         static int CountDigits(int number)
         {
            
@@ -93,6 +97,7 @@ namespace Recursion
 
             return Fibonacci(k - 1) + Fibonacci(k - 2);
         }
+<<<<<<< HEAD
 
         public static void ReverseNumber(int num)
         {
@@ -110,6 +115,11 @@ namespace Recursion
         {
             int num = 44334;
             /*
+=======
+        static void Main(string[] args)
+        {
+            int num = 44334;
+>>>>>>> 073712a28b20b3fa204d91baca37f09fb0202f92
             int countDigits = CountDigits(num);
             Console.WriteLine($"number of  digits {countDigits}"  );
             int countEvenDigits = CountEvenDigits(num);
@@ -118,10 +128,14 @@ namespace Recursion
             Console.WriteLine($"sum of   digits {sumDigits}");
             int k = 4;
             int fResult = Fibonacci(k);
+<<<<<<< HEAD
             Console.WriteLine($"the fibonaci in index {k} is {fResult}");*/
             PrintDigitsFromRightToLeft(1234);
             
             //ReverseNumber(1234);
+=======
+            Console.WriteLine($"the fibonaci in index {k} is {fResult}");
+>>>>>>> 073712a28b20b3fa204d91baca37f09fb0202f92
         }
     }
 }
